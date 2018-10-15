@@ -1,0 +1,13 @@
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\DicomViewer.exe.config
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\DicomViewer.exe
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\DicomViewer.pdb
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\Dicom.dll
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\NLog.dll
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\Dicom.pdb
+E:\MyPrivateCode\DicomViewer\DicomViewer\bin\Debug\NLog.xml
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.DicomViewer.resources
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.Properties.Resources.resources
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.csproj.GenerateResource.Cache
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.exe
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.pdb
+E:\MyPrivateCode\DicomViewer\DicomViewer\obj\Debug\DicomViewer.csprojResolveAssemblyReference.cache
